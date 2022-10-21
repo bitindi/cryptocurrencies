@@ -8278,6 +8278,25 @@
           "id": "bep20|0xca3f508b8e4dd382ee878a314789373d80a5190a",
           "funds": []
       },
+        {
+          "code": "BNI",
+          "name": "Bitindi Chain",
+          "categories": ["blockchain"],
+          "active": true,
+          "description": "### A highly scalable, fast and secure #blockchain platform for distributed apps, enterprise use cases and the new internet economy.",
+            "links": {
+              "website": "https://bitindi.com/",
+              "whitepaper": "https://bitindi.com/white-paper",
+              "guide": "https:/docs.bitindi.com/",
+              "twitter": "https://twitter.com/bitindichain",
+              "github": "https://github.com/bitindi",
+              "reddit": "",
+              "telegram": "https://t.me/bitindichain"
+          },
+          "rating": "",
+          "id": "bep20|0x77fc65dedA64f0CCA9e3aEa7b9D8521f4151882e",
+          "funds": []
+      },
       {
           "code": "BNB",
           "name": "Binance Coin",
