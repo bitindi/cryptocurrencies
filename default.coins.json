@@ -7,6 +7,13 @@
             "decimal": 8,
             "type": "bitcoin"
         },
+         {
+            "title": "Bitindi Chain",
+            "code": "BNI",
+            "decimal": 18,
+            "type": "bep20"
+            "address": "0x77fc65dedA64f0CCA9e3aEa7b9D8521f4151882e"
+        },
         {
             "title": "Litecoin",
             "code": "LTC",
