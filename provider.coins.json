@@ -5085,12 +5085,7 @@
       "name": "Betller Coin",
       "external_id": { "coingecko": "betller-coin" }
     },
-    {
-      "id": "erc20|0x4981553e8ccf6df916b36a2d6b6f8fc567628a51",
-      "code": "bni",
-      "name": "Betnomi",
-      "external_id": { "coingecko": "betnomi-2" }
-    },
+    
     {
       "id": "erc20|0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a",
       "code": "bepro",
