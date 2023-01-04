@@ -280,7 +280,7 @@
     },
     {
         "id": "bitindi-chain",
-        "symbol": "BNI",
+        "symbol": "bni",
         "name": "Bitindi Chain",
         "platforms": {
             "binance-smart-chain": "0x77fc65dedA64f0CCA9e3aEa7b9D8521f4151882e"
