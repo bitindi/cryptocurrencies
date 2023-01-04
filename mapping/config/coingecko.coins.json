@@ -5754,14 +5754,7 @@
         "name": "Betller Coin",
         "platforms": {}
     },
-    {
-        "id": "betnomi-2",
-        "symbol": "bni",
-        "name": "Betnomi",
-        "platforms": {
-            "ethereum": "0x4981553e8ccf6df916b36a2d6b6f8fc567628a51"
-        }
-    },
+   
     {
         "id": "bet-protocol",
         "symbol": "bepro",
