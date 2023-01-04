@@ -707,13 +707,8 @@
          {
             "code": "BNI",
             "name": "Bitindi Chain",
-            "categories": ["infrastructure"],
+            "categories": ["infrastructure","blockchain"],
             "active": true,
-            "platform": {
-                "name": "ethereum",
-                "address": "0x77fc65dedA64f0CCA9e3aEa7b9D8521f4151882e",
-                "type": "ERC20"
-            },
             "description": "### Project Description\n\nBitindi Chain's main goal is to create a user-centric sustainability-driven ecosystem, and it is able to achieve this by having sustainability embedded inside the Bitindi Chain consensus mechanism and runtime logic.",
             "links": {
                 "website": "https://bitindi.com/",
@@ -725,12 +720,6 @@
                 "telegram": "https://t.me/bitindichain"
             },
             "rating": "",
-            "audit": [
-                {
-                    "name": "cyberscope-io - October 9, 2022",
-                    "url": "https://github.com/cyberscope-io/audits/blob/main/bni/audit.pdf"
-                }
-            ],
             "id": "bep20|0x77fc65dedA64f0CCA9e3aEa7b9D8521f4151882e",
             "funds": []
         },
