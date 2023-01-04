@@ -44502,13 +44502,13 @@
       "id": "bep20|0x77fc65dedA64f0CCA9e3aEa7b9D8521f4151882e",
       "code": "bni",
       "name": "Bitindi Chain",
-      "external_id": { "coingecko": "bitindi-chain", "cryptocompare": "BNI"  }
+      "external_id": { "coingecko": "bitindi-chain" }
     },
     {
       "id": "erc20|0x77fc65dedA64f0CCA9e3aEa7b9D8521f4151882e",
       "code": "bni",
       "name": "Bitindi Chain",
-      "external_id": { "coingecko": "bitindi-chain", "cryptocompare": "BNI" }
+      "external_id": { "coingecko": "bitindi-chain" }
     }
   ]
 }
