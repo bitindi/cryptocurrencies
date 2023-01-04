@@ -279,6 +279,14 @@
         }
     },
     {
+        "id": "bitindi-chain",
+        "symbol": "BNI",
+        "name": "Bitindi Chain",
+        "platforms": {
+            "binance-smart-chain": "0x77fc65dedA64f0CCA9e3aEa7b9D8521f4151882e"
+        }
+    },
+    {
         "id": "10x-gg",
         "symbol": "xgg",
         "name": "10x.gg",
